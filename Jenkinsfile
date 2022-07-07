@@ -24,7 +24,7 @@ pipeline {
                     [
                         artifactId: 'my-app', 
                         classifier: '', 
-                        file: 'target/Hello World-1.0-SNAPSHOT.war', 
+                        file: 'target/Hello World 1.0-SNAPSHOT.jar', 
                         type: 'war'
                         ]
                     ], 
